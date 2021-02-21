@@ -20,7 +20,7 @@ function iLoveTheBeatles(n) {
   let arr = []
   do {
     arr.push("I love the Beatles!")
-    n + 1
+    n++
   } while (n < 15)
   return arr
 }
